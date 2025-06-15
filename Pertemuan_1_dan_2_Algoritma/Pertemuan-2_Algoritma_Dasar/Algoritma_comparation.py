@@ -28,3 +28,4 @@ y = 1
 
 hasil = x == str(y)
 print(f"Hasil dari {x} apakah sama dengan {y} adalah {hasil}")
+
